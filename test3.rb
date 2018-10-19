@@ -4,7 +4,8 @@ require 'os'
 require 'json'
 require 'fileutils'
 require 'colorize'
-require 'pry'
+r..equire 'pry'
+r..equire 'pry'
 
 require_relative 'json_depths'
 
